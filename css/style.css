@@ -1,0 +1,51 @@
+body {
+  color: rgb(0, 0, 0);
+  margin-left: 10px;
+  margin-right: 20px;
+  font-family: open, sans-serif;
+}
+.fixed-top {
+  color: yellow;
+}
+.fixed-bottom {
+  color: red;
+}
+
+.ishpa {
+  height: 400px;
+  width: 23%;
+  text-align: center;
+  background: white;
+  color: black;
+  margin-left: 40%;
+  border-radius: 30px;
+  cursor: pointer;
+  margin-bottom: 30px;
+  transition: 1s;
+  border: 4px solid rgb(139, 133, 133);
+}
+.ishpa img {
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+  border: 4px solid royalblue;
+  margin-bottom: 60px;
+  overflow: hidden;
+  cursor: pointer;
+}
+.ishpa h3 {
+  color: rgb(26, 28, 28);
+  text-transform: capitalize;
+  font-weight: 400;
+  text-decoration: none;
+  font-family: monospace;
+}
+.ishpa p {
+  text-align: center;
+  overflow: hidden;
+  font-family: monospace;
+}
+.media img {
+  height: 40px;
+  width: 40px;
+}
